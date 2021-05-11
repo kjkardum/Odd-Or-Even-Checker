@@ -11932,6 +11932,9 @@ def odd_or_even(number: int):
 
     if number == 3977:
         return "Odd"
+    
+    if number == 3978:
+        return "Even"
 
 
 if __name__ == "__main__":
